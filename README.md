@@ -1,8 +1,8 @@
 # Basic_Android_App
-** Proyecto ** 
+**Proyecto** 
 Aplicacion para Android, interfas sencuilla de 6 botones que cambian el color de la vista y poseen sonidos unicos.
 
-** Integrantes **
+**Integrantes**
 * Ricardo Jimenez Anchia
 
 # Requerimientos
